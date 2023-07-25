@@ -17,4 +17,26 @@ The idea behind this project was to get an up-to-date rundown of active and live
 
 ## Data Sourcing
 To access the data needed for this project,  I summarily went to the WHO website which you can find [here](https://covid19.who.int/).
-I imported the web link to my Power BI desktop web-link page; selected the relevant tables to the project and loaded it to the Power Query Editor for transformation and cleaning in order to ensure data quality
+I imported the web link to my Power BI desktop web-link page; selected the relevant tables to the project and loaded it to the Power Query Editor for transformation and cleaning in order to ensure data quality. The dataset is a combination of two tables.  Table-1 has 8-columns with 237rows while the second table has 11 columns with 305,019 rows.
+
+
+## Data Transformation/Cleaning
+The following steps were taken to ensure quality:
+
+- Profiling based on entire dataset
+- Removed duplicates
+- Replaced empty cells for cases and death records with zero (0)
+- Created new columns from the  "Date reported" column. These columns are the "Year", "Month" and "Numerical Month".
+- Checked and ensured data types were matching and corresponding
+
+## Data Modelling
+Having Tansformed and claeaned the data, I proceeded to close and apply the changes on Power BI, from whence I went to the model view. Although there were 2 tables. However, only one major relationship was spotted between the tables, which is the "country". A view of the model can be seen below:
+
+
+![](Covid-19_Model.png)
+
+
+## Visualization
+After the necessary transformation/cleaning and Modelling, the data was considered fit for visualization and insights were generated using key KPI metrics. Below is the single page dashboard generated for this project:
+
+![](
