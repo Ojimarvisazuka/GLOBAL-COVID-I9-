@@ -3,7 +3,7 @@
 ![](Covid_Virus.jpg)
 
 ## Introduction
-This project was mandated by Quantum Analytics NG as part of my internship. The instruction was to carry out a live analysis of COVID-19 dataset from the World Health Organisation (WHO) website for an up-to-date COVID-19 events. 
+This project was mandated by Quantum Analytics NG as part of my internship. The instruction was to carry out a live analysis of COVID-19 dataset from the World Health Organisation (WHO) website for an update on COVID-19 events. Power BI was the visualization tool used in this project and the details are presented below. 
 
 
 ## Problem Statement
@@ -40,3 +40,8 @@ Having Tansformed and claeaned the data, I proceeded to close and apply the chan
 After the necessary transformation/cleaning and Modelling, the data was considered fit for visualization and insights were generated using key KPI metrics. Below is the single page dashboard generated for this project:
 
 ![](Global_covid-19_dashboard_page.jpg)
+
+
+## Conclusion & Recommendation
+The project was able to identify the trend of cases, with peak figures recorded in the 1st Quarter of 2022. The World Health Organisation no longer considers the virus a Public Health Emergency of International Concern (PHEIC). However, the trend of events shows that cases were reported in the last 7 days; indicating that the virus is endemic. Despite relaxing stringent Covid-19 measures, various Governments are advised to put in place various containment and coping measures in the event of a future upsurge in covid-19 cases. People are also advised to adhere to the covid-19 guidelines especially during cold-winter months since more cases are usually recorded during that period of the year.
+
