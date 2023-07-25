@@ -39,4 +39,4 @@ Having Tansformed and claeaned the data, I proceeded to close and apply the chan
 ## Visualization
 After the necessary transformation/cleaning and Modelling, the data was considered fit for visualization and insights were generated using key KPI metrics. Below is the single page dashboard generated for this project:
 
-![](
+![](Global_covid-19_dashboard_page.jpg)
