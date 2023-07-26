@@ -44,6 +44,8 @@ After the necessary transformation/cleaning and Modelling, the data was consider
 For the interactive visual, see [here](https://app.powerbi.com/groups/me/reports/84beac97-845d-4d25-9c31-bc198d474b9c?experience=power-bi)
 
 
+
+
 ## Conclusion 
 The project was able to identify the trend of cases, and it was observed that peak figures were recorded in the 1st Quarter of 2022 with the US, Brazil and India recording the top 3 total cases globally (hitherto). Although, the World Health Organisation (WHO) no longer considers the virus a Public Health Emergency of International Concern (PHEIC). However, the trend of events shows that cases were reported within the last 7 days; indicating that the virus is around and endemic. 
 
